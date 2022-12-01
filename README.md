@@ -1,2 +1,3 @@
-# operating_sistems_1
-A repository for my programs from my os class
+Operative Systems I
+---
+Here are some projects made for my OS class from university.
